@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Allgood</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview" />
+    <string name="_12_01" />
+    <string name="_12_00pm" />
+    <string name="enter_your_message">Enter your message</string>
+    <string name="image">image</string>
+    <string name="todo">TODO</string>
+    <string name="rohit_kumar">Rohit kumar</string>
+    <string name="o">TODO</string>
+    <string name="todoo">TODOo</string>
+    <string name="todooo">TODOoo</string>
+    <string name="Enter_your_message">Enter your message</string>
+    <string name="Welcome_to_status" />
+    <string name="Welcome_to_Status" />
+    <string name="Welcome_to_Call" />
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27725404558",
+    "firebase_url": "https://allgoodfinal-default-rtdb.firebaseio.com",
+    "project_id": "allgoodfinal",
+    "storage_bucket": "allgoodfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27725404558:android:370f667fdc9c600309acdf",
+        "android_client_info": {
+          "package_name": "com.rohitkumar.allgood3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27725404558-v3b9rm58o7suh18ol2pd6t1molv4kgms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohitkumar.allgood3",
+            "certificate_hash": "e66629f9175e79eed92198a5b35043d7fdfead13"
+          }
+        },
+        {
+          "client_id": "27725404558-gcq3n73ko468ifpiukash20osgtlggnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2FvS8pYgEIYvwd5rBCkSiQgcrDpcsYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27725404558-gcq3n73ko468ifpiukash20osgtlggnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
